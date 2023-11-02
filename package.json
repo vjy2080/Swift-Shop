@@ -1,6 +1,6 @@
 {
   "name": "swift-shop",
-  "homepage" : "https://vjy2080.github.io/Swift-Shop"
+  "homepage" : "https://vjy2080.github.io/swift-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
