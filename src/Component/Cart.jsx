@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { getItemsSelector } from '../redux/slices/cartSlice';
-import { Badge, Button } from "react-bootstrap";
+import { Badge } from "react-bootstrap";
 
 
 
